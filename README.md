@@ -31,7 +31,7 @@ Tensors, loss functions, gradient descent algorithms, neural networks, sigmoid c
 [[Blog]](https://robotics890103591.wordpress.com/2020/05/03/accuracy-of-barometric-sensor-for-aerial-vehicle-by-classification-technique-using-k-nearest-neighbours/) [[Complete Code]](https://github.com/Owee-Angare/Robo/blob/master/BarometricPressure_for_AV.ipynb) 
 
 ### •	DEVELOPING A NEURAL NETWORK TO PREDICT AND IDENTIFY A ROBOT FROM A CONVERSATION 
-(Neural network built in TensorFlow using high level architectural API Keras)<br> [[Blog]](https://robotics890103591.wordpress.com/2020/06/28/developing-a-neural-network-to-predict-and-identify-a-robot-from-a-conversation/) [[Complete Coode]](https://github.com/Owee-Angare/Robo/blob/master/Robot_Conversation.ipynb)  
+(Neural network built in TensorFlow using high level architectural API Keras)<br> [[Blog]](https://robotics890103591.wordpress.com/2020/06/28/developing-a-neural-network-to-predict-and-identify-a-robot-from-a-conversation/) [[Complete Code]](https://github.com/Owee-Angare/Robo/blob/master/Robot_Conversation.ipynb)  
 *** *** *** 
 
 ## Contact<br>
