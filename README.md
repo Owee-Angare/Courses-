@@ -1,5 +1,4 @@
-# Courses 
-*** *** *** 
+# Courses  
 
 ## COURSERA
 
@@ -37,4 +36,4 @@ Tensors, loss functions, gradient descent algorithms, neural networks, sigmoid c
 
 ## Contact<br>
 Email: oweeangare@gmail.com<br>
-College Email: angareoa17.prod@coep.ac.in  
+College Email: angareoa17.prod@coep.ac.in    
