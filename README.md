@@ -1,38 +1,27 @@
 # Courses  
 
-## COURSERA
-
-### •	ROBTICS: COMPUTATIONAL MOTION PLANNING (UPenn)
+### •	ROBTICS: COMPUTATIONAL MOTION PLANNING (Coursera - UPenn)
 Motion planning problem solving techniques, motion planning algorithms for planning paths in multi-dimensions, configuration space obstacles and graph-based tools for motion planning, artificial potential fields for path planning
 
-### •	ROBOTICS: PERCEPTION (UPenn)
+### •	ROBOTICS: PERCEPTION (Coursera - UPenn)
 Geometry of perspective projection, computing intrinsics from vanishing points, projective transformations, visual odometry 
 
-### •	FUNDAMENTALS OF REINFORCEMENT LEARNING (University of Alberta, Alberta Machine Intelligence Institute)
-Ongoing course (To be completed by 5th July, 2020) 
+### •	FOUNDATIONS OF COGNITIVE ROBOTICS (India Institute of Technology (IIT) Kanpur) [Course Content](https://drive.google.com/file/d/19DUHI4Nw-z09n74MUZW19Q-oG88Oxhi0/view?usp=sharing)
+Ongoing course (To be completed by 14th August, 2020) 
 *** *** *** 
 
 ## OYESTERS TRAINING IN ASSOCIATION WITH DIAZONIC LABS 
 
-### •	PYTHON TO MACHINE LEARNING 
+### •	PYTHON TO MACHINE LEARNING [Course Content](https://drive.google.com/file/d/1Pm6inIMhsJnJqe48Yvs8yc1hrVgx4Tx1/view?usp=sharing) 
 Basics of python programming language, introduction to machine learning, Regression, Classification and Clustering algorithms for training machine with data 
 
-### •	COMPUTER VISION
+### •	COMPUTER VISION [Course Content](https://drive.google.com/file/d/1Dt7hHOZgEIAw86U7lpr_gUNDANue3Cwl/view?usp=sharing) 
 Computer vision fundamentals, Image processing – Edge detection technique, canny edge detection, facial recognition 
-
-### •	DEEP LEARNING
+ 
+### •	DEEP LEARNING [Course Content](https://drive.google.com/file/d/1nHNewIoTp6RJ0R1q8RJVOwCMQwPatk5G/view?usp=sharing)
 Tensors, loss functions, gradient descent algorithms, neural networks, sigmoid curve and its visualization, activation functions, Keras sequential model, convolutional neural network, Image recognizer for multi-class 
 *** *** *** 
 
-# Projects 
-
-### •	PREDICTING ACCURACY OF BAROMETRIC SENSOR FOR AERIAL VEHICLE  BY CLASSIFICATION TECHNIQUE USING K-NEAREST NEIGHBORS
-(Used the Classification technique of supervised machine learning)<br> 
-[[Blog]](https://robotics890103591.wordpress.com/2020/05/03/accuracy-of-barometric-sensor-for-aerial-vehicle-by-classification-technique-using-k-nearest-neighbours/) [[Complete Code]](https://github.com/Owee-Angare/Robo/blob/master/BarometricPressure_for_AV.ipynb) 
-
-### •	DEVELOPING A NEURAL NETWORK TO PREDICT AND IDENTIFY A ROBOT FROM A CONVERSATION 
-(Neural network built in TensorFlow using high level architectural API Keras)<br> [[Blog]](https://robotics890103591.wordpress.com/2020/06/28/developing-a-neural-network-to-predict-and-identify-a-robot-from-a-conversation/) [[Complete Code]](https://github.com/Owee-Angare/Robo/blob/master/Robot_Conversation.ipynb)  
-*** *** *** 
 
 ## Contact<br>
 Email: oweeangare@gmail.com<br>
