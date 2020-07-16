@@ -8,8 +8,11 @@ Geometry of perspective projection, computing intrinsics from vanishing points, 
 
 ### •	FOUNDATIONS OF COGNITIVE ROBOTICS (India Institute of Technology (IIT) Kanpur) [Course Content](https://drive.google.com/file/d/19DUHI4Nw-z09n74MUZW19Q-oG88Oxhi0/view?usp=sharing)
 Ongoing course (To be completed by 14th August, 2020) 
-*** *** *** 
 
+### •	LOWER LIMB ANATOMY 
+Guide: Dr. Anjali Patil, Head of Anatomy Department, [B.J Government Medical College, Pune](http://www.bjmcpune.org/)
+*** *** *** 
+ 
 ## OYESTERS TRAINING IN ASSOCIATION WITH DIAZONIC LABS 
 
 ### •	PYTHON TO MACHINE LEARNING [Course Content](https://drive.google.com/file/d/1Pm6inIMhsJnJqe48Yvs8yc1hrVgx4Tx1/view?usp=sharing) 
