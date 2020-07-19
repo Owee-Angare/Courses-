@@ -3,8 +3,8 @@
 ### •	ROBTICS: COMPUTATIONAL MOTION PLANNING (Coursera - UPenn)
 Motion planning problem solving techniques, motion planning algorithms for planning paths in multi-dimensions, configuration space obstacles and graph-based tools for motion planning, artificial potential fields for path planning
 
+### Ongoing 
 ### •	ROBOTICS: PERCEPTION (Coursera - UPenn)
-(Ongoing)
 
 ### •	LOWER LIMB ANATOMY 
 Guide: Dr. Anjali Patil, Head of Anatomy Department, [B.J Government Medical College, Pune](http://www.bjmcpune.org/)
