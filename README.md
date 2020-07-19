@@ -4,10 +4,7 @@
 Motion planning problem solving techniques, motion planning algorithms for planning paths in multi-dimensions, configuration space obstacles and graph-based tools for motion planning, artificial potential fields for path planning
 
 ### •	ROBOTICS: PERCEPTION (Coursera - UPenn)
-Geometry of perspective projection, computing intrinsics from vanishing points, projective transformations, visual odometry 
-
-### •	FOUNDATIONS OF COGNITIVE ROBOTICS (India Institute of Technology (IIT) Kanpur) [Course Content](https://drive.google.com/file/d/1Zt4440N9vHB8gAHIM9LplS8vQQknu0TO/view?usp=sharing)
-Ongoing course (To be completed by 14th August, 2020) 
+(Ongoing)
 
 ### •	LOWER LIMB ANATOMY 
 Guide: Dr. Anjali Patil, Head of Anatomy Department, [B.J Government Medical College, Pune](http://www.bjmcpune.org/)
