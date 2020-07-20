@@ -12,7 +12,7 @@ Guide: Dr. Anjali Patil, Head of Anatomy Department, [B.J Government Medical Col
  
 ## OYESTERS TRAINING IN ASSOCIATION WITH DIAZONIC LABS 
 
-### •	PYTHON TO MACHINE LEARNING [Course Content](https://drive.google.com/file/d/1Pm6inIMhsJnJqe48Yvs8yc1hrVgx4Tx1/view?usp=sharing) 
+### •	PYTHON TO MACHINE LEARNING [Course Content](https://drive.google.com/file/d/1r1E5976qQsXIvOBT-Ki_dWlrA4RWdJb3/view?usp=sharing) 
 Basics of python programming language, introduction to machine learning, Regression, Classification and Clustering algorithms for training machine with data 
 
 ### •	COMPUTER VISION [Course Content](https://drive.google.com/file/d/1Dt7hHOZgEIAw86U7lpr_gUNDANue3Cwl/view?usp=sharing) 
